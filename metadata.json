@@ -1,0 +1,5 @@
+{
+  "name": "Child-Pugh Score & NOAC Guide",
+  "description": "A clinical calculator for Child-Pugh classification of liver disease and NOAC (Non-vitamin K antagonist oral anticoagulant) usage recommendations.",
+  "requestFramePermissions": []
+}
